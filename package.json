@@ -1,0 +1,12 @@
+{
+  "name": "Playroom",
+  "version": "1.0.0",
+  "description":"OOP",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+	"prompt": "3.5.2"
+    
+  }
+}
