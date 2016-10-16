@@ -1,0 +1,175 @@
+[
+    {
+        "class_name":"ball",
+            "name":"Ball for boy",
+            "price":"10",
+            "age":"1-3",
+            "type":"ball",
+            "color":"blue",
+            "size":"medium"
+        
+    },
+    {
+        "class_name": "car",
+            "name":"Red car",
+            "price":"100",
+            "age":"2-4",
+            "type":"car",
+            "wheels":"4",
+            "size":"small"
+        
+    },
+    {
+        "class_name": "car",
+            "name":"Truck",
+            "price":"55",
+            "age":"3-6",
+            "type":"car",
+            "wheels":"6",
+            "size":"big"
+        
+    },
+        {
+        "class_name":"ball",
+            "name":"Ball for girl",
+            "price":"10",
+            "age":"2-4",
+            "type":"ball",
+            "color":"pink",
+            "size":"medium"
+        
+    },
+    {
+        "class_name": "car",
+            "name":"Blue car",
+            "price":"100",
+            "age":"3-10",
+            "type":"car",
+            "wheels":"4",
+            "size":"small"
+        
+    },
+    {
+        "class_name": "car",
+            "name":"Loader",
+            "price":"55",
+            "age":"1-10",
+            "type":"car",
+            "wheels":"8",
+            "size":"big"
+        
+    },
+        {
+        "class_name":"ball",
+            "name":"Ball for baby",
+            "price":"10",
+            "age":"0-1",
+            "type":"ball",
+            "color":"yellow",
+            "size":"small"
+        
+    },
+    {
+        "class_name": "car",
+            "name":"White car",
+            "price":"100",
+            "age":"3-10",
+            "type":"car",
+            "wheels":"4",
+            "size":"small"
+        
+    },
+    {
+        "class_name": "car",
+            "name":"Race car",
+            "price":"55",
+            "age":"6-10",
+            "type":"car",
+            "wheels":"4",
+            "size":"big"
+        
+    },
+        {
+        "class_name": "block",
+            "name":"Box blocks",
+            "price":"92",
+            "age":"3-6",
+            "type":"block",
+            "color":"blue",
+            "amount":"6",
+            "size":"small"
+        
+    },
+        {
+        "class_name": "block",
+            "name":"LEGO",
+            "price":"350",
+            "age":"6-10",
+            "type":"block",
+            "amount":"56",
+            "size":"small"
+        
+    },
+        {
+        "class_name": "block",
+            "name":"Package of blocks",
+            "price":"105",
+            "age":"3-5",
+            "type":"block",
+            "size":"medium"
+        
+    },
+           {
+        "class_name": "doll",
+            "name":"Barbie",
+            "price":"154",
+            "age":"5-12",
+            "type":"doll",
+            "size":"small"
+        
+    },
+        {
+        "class_name": "doll",
+            "name":"Baby",
+            "price":"80",
+            "age":"3-5",
+            "type":"doll",
+            "speaking":"can speak",
+            "colorHair":"brunet",
+            "size":"medium"
+        
+    },
+        {
+        "class_name": "book",
+            "name":"Fairy tales",
+            "price":"25",
+            "age":"2-4",
+            "type":"book",
+            "size":"medium"      
+    },
+        {
+        "class_name": "book",
+            "name":"Fairy tales",
+            "price":"56",
+            "age":"3-6",
+            "type":"book",
+            "size":"big",
+            "language":"english"      
+    },
+            {
+        "class_name": "house",
+            "name":"House for barbie",
+            "price":"250",
+            "age":"5-12",
+            "type":"house",
+            "size":"big"      
+    },
+        {
+        "class_name": "house",
+            "name":"House with 2 bedrooms",
+            "price":"340",
+            "age":"3-6",
+            "type":"house",
+            "size":"big"      
+    }
+]
